@@ -1,0 +1,1 @@
+Create view PatNurse_VWasselect top 100 PatientID, NurseIDFrom Interaction

@@ -1,0 +1,1 @@
+Create view PDischargeReprt_VWasselect top 1000 TreatmentID, ItemID, chargeID, AdmitDate, DischargeDateFrom Admit, Charge, Administer
